@@ -4,10 +4,15 @@ strong {
 }
 
 body {
-	background-position: center center;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: 100% 100%;
+}
+
+.principal {
+	padding: 2em 2em; 
+	margin: 0 auto;
+	width: 50%;
+	float: left;
+	position: fixed;
 }
 
 .imagem-principal {
